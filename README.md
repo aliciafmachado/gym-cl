@@ -3,6 +3,6 @@ The Classifier Chain environment is an agent domain featuring discrete state and
 
 # Installation
 ```bash
-cd gym-soccer
+cd gym-cl
 pip install -e .
 ```
